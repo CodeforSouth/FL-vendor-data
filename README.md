@@ -8,5 +8,5 @@ THANKS!
 
 ______
 
-###Vendor data API via @becdar
+###Vendor data API via @becdar (Code for Fort Lauderdale)
 https://github.com/becdar/payments-api
