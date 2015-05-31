@@ -6,3 +6,7 @@ Feel free also to work in this repo within the folder for your city.
 
 THANKS!
 
+______
+
+###Vendor data API via @becdar
+https://github.com/becdar/payments-api
