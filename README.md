@@ -20,7 +20,7 @@ A Statewide Challenge to make the state’s vendor payment data more easily dige
 ### Bulk Download
 Bulk downloads of State Vendor Payments data available online for 6 state Fiscal Years (Fiscal Years 2009 – 2014): http://www.myfloridacfo.com/transparency/vendorpayments.aspx
 
-NThe files are pipe-delimited, but for many of the 23,122,218 records this isn't consistent. Some vendor names have pipes in their names which can throw off parsing, and some of the fields extend into the next field, so appear with a / (slash) delimiter instead of a pipe; which also throws off parsing.
+The files are pipe-delimited, but for many of the 23,122,218 records this isn't consistent. Some vendor names have pipes in their names which can throw off parsing, and some of the fields extend into the next field, so appear with a / (slash) delimiter instead of a pipe; which also throws off parsing.
 
 Contributor and Jacksonville Technology Wonk Brady Merkel has re-composed the input files which will import much easily to your favorite database engine.
 Get the corrected files from DropBox here:
@@ -36,14 +36,14 @@ Who we (the State of Florida) pay, for what, and how much.
 
 You can Search vendor payments data by:
 
-* Warrant No./ Invoice No.
-* Date Range/ Fiscal Year
+* Warrant No. / Invoice No.
+* Date Range / Fiscal Year
 * Object Code Classification(s) 
-* Vendor Name/ Number/ Type
+* Vendor Name / Number / Type
 * Minority Classification(s)
 * Paying State Agency(s)
 * Amount
-* Location (address/ phone area code)
+* Location (address / phone area code)
 
 ____
 
