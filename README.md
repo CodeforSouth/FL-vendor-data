@@ -49,3 +49,7 @@ ____
 
 ### Vendor data API via @becdar (Code for Fort Lauderdale)
 https://github.com/becdar/payments-api
+
+### Vendor data injestion tool for import into Elasticsearch and data visualization with Kibana via (@zumbatech)
+
+https://github.com/cjsaylor/datamnom
